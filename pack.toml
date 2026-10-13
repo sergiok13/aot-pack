@@ -1,12 +1,12 @@
 name = "AOT Paradis"
 author = "Sergio"
-version = "2026.10.13-1858"
+version = "2026.10.13-2043"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6ca64e086c73d2c86e3588d3681962c39b72c960a9e79d938c688743d5a387b6"
+hash = "5c91a4a4d675e3da805b8f1a35dd4baa06448ddb50b362873e527cf69973ae73"
 
 [versions]
 minecraft = "1.21.1"

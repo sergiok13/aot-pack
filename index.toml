@@ -159,8 +159,8 @@ file = "mods/progresion_regimientos-1.21.1-fabric-1.4.1.jar"
 hash = "97722eddd5b5ce63c4a9f7f3e2d839e09935023798b2ebf587e1e5a8d0b83a8e"
 
 [[files]]
-file = "mods/reconquista_maria-1.21.1-fabric-1.3.2.jar"
-hash = "f753a7b00050be7df86592cb772a4e1c776008a8c55e643de01168b6f0b9351c"
+file = "mods/reconquista_maria-1.21.1-fabric-1.3.3.jar"
+hash = "a3769c167e7cc96a85f194a4b41eeb45f9a6f0e69ef8235fdbf82e983173602d"
 
 [[files]]
 file = "mods/resourcefullib.pw.toml"
