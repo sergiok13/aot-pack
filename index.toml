@@ -155,8 +155,8 @@ hash = "69c7ba4b634e20929c7cedf8294f3bd9eb976e85f847da18a961ffd61059b43f"
 metafile = true
 
 [[files]]
-file = "mods/progresion_regimientos-1.21.1-fabric-1.4.0.jar"
-hash = "f012a6002e055ae205797528b037989e68b1d383500539fc4649aa03e9c16301"
+file = "mods/progresion_regimientos-1.21.1-fabric-1.4.1.jar"
+hash = "97722eddd5b5ce63c4a9f7f3e2d839e09935023798b2ebf587e1e5a8d0b83a8e"
 
 [[files]]
 file = "mods/reconquista_maria-1.21.1-fabric-1.3.0.jar"
