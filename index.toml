@@ -6,8 +6,8 @@ hash = "a7793517215d4673ed4dc0264a9d7688719eb8f97717a211a8626d156613dba2"
 metafile = true
 
 [[files]]
-file = "mods/aot_hud-1.21.1-fabric-1.2.2.jar"
-hash = "0de801b3821f777df841edb137b2de05f54f60cc308999814d42878f6a3098a3"
+file = "mods/aot_hud-1.21.1-fabric-1.2.3.jar"
+hash = "a5e0771b8f3374dc203f4e2facd53a926e1ccc17284128e3b525502ab118202c"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
