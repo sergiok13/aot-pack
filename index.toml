@@ -80,6 +80,11 @@ hash = "ed65d46f7ecc51f66f7a35f3233d4c429592a4b82c520bda4845eb929c4ad7d6"
 metafile = true
 
 [[files]]
+file = "mods/mapsyncer.pw.toml"
+hash = "97aa1a109174ac74f59465bb7e0c80f2f036433740a9c0d83ca15344b79fa63c"
+metafile = true
+
+[[files]]
 file = "mods/mcwbridges.pw.toml"
 hash = "05e3206f41a56db766cbbef5dd840beb3ee008e511c1aada93e7b0791d1b303c"
 metafile = true
@@ -159,8 +164,8 @@ file = "mods/progresion_regimientos-1.21.1-fabric-1.4.1.jar"
 hash = "97722eddd5b5ce63c4a9f7f3e2d839e09935023798b2ebf587e1e5a8d0b83a8e"
 
 [[files]]
-file = "mods/reconquista_maria-1.21.1-fabric-1.3.3.jar"
-hash = "a3769c167e7cc96a85f194a4b41eeb45f9a6f0e69ef8235fdbf82e983173602d"
+file = "mods/reconquista_maria-1.21.1-fabric-1.3.5.jar"
+hash = "92992b5b58bf7de81b283cfef04cbf891aea2feeeffb69021b284f250b406f56"
 
 [[files]]
 file = "mods/resourcefullib.pw.toml"

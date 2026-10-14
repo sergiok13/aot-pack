@@ -1,0 +1,13 @@
+name = "MapSyncer"
+filename = "mapsyncer-1.0.3-fabric-1.21.1-bugfix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AW5A8Q2T/versions/LnUgoIb5/mapsyncer-1.0.3-fabric-1.21.1-bugfix.jar"
+hash-format = "sha1"
+hash = "3fe29f1552d5f2ba4fedb8918f9deb467f859539"
+
+[update]
+[update.modrinth]
+mod-id = "AW5A8Q2T"
+version = "LnUgoIb5"
